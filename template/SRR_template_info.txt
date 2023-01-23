@@ -1,0 +1,7 @@
+Template for fetching SRR runs from Gene Expression Omnibus using the Terra-Kallisto Pipeline
+
+1. Change INSERT_EXPERIMENT_NAME to relevant experiment name. It is necessary to keep "entity:" and "_id" in the name. (ex. entity:BMDM.WT.vs.LPS_id)
+2. Add SRR accession numbers for the datasets you want to download and add relevant condition names
+(3.) Add the location of the index transcriptome file. (This step can also be done after uploading the file)
+
+It is a Tab Separated File, so make sure there is exactly one tab between each field if editing in a TXT editor.

@@ -1,0 +1,5 @@
+entity:INSERT_EXPERIMENT_NAME_id	condition	idx_transcriptome	
+SRRXXXXXXX	WT.UNT_1	gs://fc-e999fe70-b4d1-4d67-aedf-0cb6104f02da/submissions/56f2f47c-c0e8-4a82-a53b-7a1320d40430/kallisto_quant/1341b086-c894-485e-a49d-0345229e4214/call-kallisto_build_index/transcripts.idx
+SRRXXXXXXX	WT.UNT_2gs://fc-e999fe70-b4d1-4d67-aedf-0cb6104f02da/submissions/56f2f47c-c0e8-4a82-a53b-7a1320d40430/kallisto_quant/1341b086-c894-485e-a49d-0345229e4214/call-kallisto_build_index/transcripts.idx
+SRRXXXXXXX	WT.TRT_1	gs://fc-e999fe70-b4d1-4d67-aedf-0cb6104f02da/submissions/56f2f47c-c0e8-4a82-a53b-7a1320d40430/kallisto_quant/1341b086-c894-485e-a49d-0345229e4214/call-kallisto_build_index/transcripts.idx
+SRRXXXXXXX	WT.TRT_2	gs://fc-e999fe70-b4d1-4d67-aedf-0cb6104f02da/submissions/56f2f47c-c0e8-4a82-a53b-7a1320d40430/kallisto_quant/1341b086-c894-485e-a49d-0345229e4214/call-kallisto_build_index/transcripts.idx
